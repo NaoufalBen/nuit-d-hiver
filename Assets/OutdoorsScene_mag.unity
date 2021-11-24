@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 2130.3467, g: 2232.89, b: 3250.052, a: 1}
+  m_IndirectSpecularColor: {r: 2129.6287, g: 2234.2139, b: 3256.9734, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -351,7 +351,7 @@ GameObject:
   - component: {fileID: 405640905}
   - component: {fileID: 405640904}
   m_Layer: 0
-  m_Name: GameObject (5)
+  m_Name: mur_6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -382,7 +382,7 @@ Transform:
   m_LocalScale: {x: 0.35460117, y: 3.938382, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 11
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &408676702
 GameObject:
@@ -395,7 +395,7 @@ GameObject:
   - component: {fileID: 408676704}
   - component: {fileID: 408676703}
   m_Layer: 0
-  m_Name: GameObject (2)
+  m_Name: mur_3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -426,7 +426,7 @@ Transform:
   m_LocalScale: {x: 1, y: 6.856359, z: 15.8979645}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &432432459
 GameObject:
@@ -487,7 +487,7 @@ GameObject:
   - component: {fileID: 641572481}
   - component: {fileID: 641572480}
   m_Layer: 0
-  m_Name: GameObject (4)
+  m_Name: mur_5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -518,7 +518,7 @@ Transform:
   m_LocalScale: {x: 2.6851726, y: 2.9698853, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 10
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1224781582
 GameObject:
@@ -531,7 +531,7 @@ GameObject:
   - component: {fileID: 1224781584}
   - component: {fileID: 1224781583}
   m_Layer: 0
-  m_Name: GameObject (1)
+  m_Name: mur_2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -562,51 +562,7 @@ Transform:
   m_LocalScale: {x: 1, y: 6.856359, z: 15.8979645}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1475550440
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1475550442}
-  - component: {fileID: 1475550441}
-  m_Layer: 0
-  m_Name: Mur-
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!65 &1475550441
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1475550440}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 11.923491, y: 6.7724733, z: 0.61025333}
-  m_Center: {x: -1.4578619, y: 0.57462025, z: 0.016501904}
---- !u!4 &1475550442
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1475550440}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.84, y: 2.8640244, z: 7.79}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1620503097
 PrefabInstance:
@@ -718,7 +674,7 @@ GameObject:
   - component: {fileID: 1817768932}
   - component: {fileID: 1817768931}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: mur_1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -749,7 +705,7 @@ Transform:
   m_LocalScale: {x: 11.883006, y: 6.778184, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1823688464
 GameObject:
@@ -1005,7 +961,7 @@ GameObject:
   - component: {fileID: 2052170377}
   - component: {fileID: 2052170376}
   m_Layer: 0
-  m_Name: GameObject (3)
+  m_Name: mur_4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1036,5 +992,5 @@ Transform:
   m_LocalScale: {x: 9.258905, y: 6.7976274, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
