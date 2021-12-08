@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - cadeaux
   - Water
   - UI
   - Particle Collision
-  - 
+  - player
   - PostProcessing
   - Not in Reflection
   - 
